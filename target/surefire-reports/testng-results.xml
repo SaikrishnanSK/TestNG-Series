@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.test.orange.TestOrangehrm" duration-ms="49575" started-at="2021-11-25T18:41:57 IST" finished-at="2021-11-25T18:42:47 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="49575" started-at="2021-11-25T18:41:57 IST" finished-at="2021-11-25T18:42:47 IST">
+      <class name="com.test.orange.TestOrangehrm">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.test.orange.TestOrangehrm@3fd7a715]" name="beforeTest" is-config="true" duration-ms="15" started-at="2021-11-25T18:41:57 IST" finished-at="2021-11-25T18:41:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.test.orange.TestOrangehrm@3fd7a715]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-11-25T18:41:57 IST" finished-at="2021-11-25T18:41:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openOrangeHrm()[pri:0, instance:com.test.orange.TestOrangehrm@3fd7a715]" name="openOrangeHrm" duration-ms="32294" started-at="2021-11-25T18:41:57 IST" finished-at="2021-11-25T18:42:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openOrangeHrm -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.test.orange.TestOrangehrm@3fd7a715]" name="afterMethod" is-config="true" duration-ms="5692" started-at="2021-11-25T18:42:29 IST" finished-at="2021-11-25T18:42:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="takeScreenShot()[pri:0, instance:com.test.orange.TestOrangehrm@3fd7a715]" name="takeScreenShot" is-config="true" duration-ms="5397" started-at="2021-11-25T18:42:35 IST" finished-at="2021-11-25T18:42:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShot -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.test.orange.TestOrangehrm@3fd7a715]" name="afterTest" is-config="true" duration-ms="6107" started-at="2021-11-25T18:42:40 IST" finished-at="2021-11-25T18:42:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.test.orange.TestOrangehrm -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.test.orange.TestOrangehrm -->
+</testng-results>
